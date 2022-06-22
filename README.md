@@ -2,8 +2,22 @@
 
 Dépôt principal pour tous les MWE (Minimum Working Exemples) ayant trait au développement embarqué qu'il s'agissent de microcontrolleur, d'IoT ou de Linux embarqué.
 
-## Étapes pour ajouter un dépôt existant
+## Cloner le dépôt principal MWE-embedded
 
+Deux options : 
+* Soit vous êtes intéressés par tous le dépôts :
+```
+git clone --recurse-submodules https://Your/repository
+```
+* Soit seulement quelques modules vous intéressent pour commencer : 
+```
+git clone
+cd MWE-embedded/
+git submodule update --init /path/to/submodule
+```
+
+
+## Étapes pour ajouter un dépôt existant
 
 Deux options : 
 * Soit cloner le dépôt, ajouter le submodule, commit et push
