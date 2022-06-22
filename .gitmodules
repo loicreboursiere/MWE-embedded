@@ -4,3 +4,6 @@
 [submodule "MWE-painlessMesh-ESP-Ruisantos"]
 	path = MWE-painlessMesh-ESP-Ruisantos
 	url = git@github.com:loicreboursiere/MWE-painlessMesh-ESP-Ruisantos.git
+[submodule "MWE-ESP8266-APMod"]
+	path = MWE-ESP8266-APMod
+	url = https://github.com/loicreboursiere/MWE-ESP8266-APMod.git
