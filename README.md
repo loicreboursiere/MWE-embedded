@@ -1,8 +1,40 @@
 # MWE-embedded
 
-Dépôt principal pour tous les MWE (Minimum Working Exemples) ayant trait au développement embarqué qu'il s'agissent de microcontrolleur, d'IoT ou de Linux embarqué.
 
-## Cloner le dépôt principal MWE-embedded
+<!-- TABLE DES MATIÈRES -->
+<details open="open">
+  <summary><h2 style="display: inline-block">Table des matières</h2></summary>
+  <ol>
+    <li><a href="#contexte">Contexte</a></li>
+    <li><a href="#projets">Les Projets</a></li>
+    <li><a href="#utilisation">Utilisation du dépôt</a></li>
+      <ul>
+        <li><a href="#construit-avec">Cloner le dépôt principal MWE-embedded</a></li>
+        <li><a href="#construit-avec">Étapes pour ajouter un dépôt existant</a></li>
+        <li><a href="#construit-avec">Pour mettre à jour un module</a></li>
+      </ul>
+    <li><a href="#contribution">Contribution</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#remerciements">Remerciements</a></li>
+  </ol>
+</details>
+
+## Contexte
+
+Ce dépôt est le dépôt principal pour tous les Minimum Working Exampless (MWE) ayant trait au travail something_neat développé par les membres de l'équipe du [https://le-click.be/](CLICK) .
+Ces MWE correspondent à la prise en main d'une technique, d'une librairie, d'un concept ou d'une carte électronique ou environnement matériel spécifique en rapport avec le monde de l'`embedded` qu'il s'agisse de microcontrolleur, d'IoT ou de Linux embarqué.
+
+Ces MWE correspondent essentiellement au test de tutoriels trouver sur internet et à leur augmentation par le développement ou l'utilisation d'une feature particulière. En l'occurence, ces dépôts sont documentés et sourcés de manière à éviter les écueils de prise en main d'une nouvelle technologie.
+
+
+
+## Les projets
+
+
+## Utilisation du dépôt
+
+### Cloner le dépôt principal MWE-embedded
 
 Deux options : 
 * Soit vous êtes intéressés par tous le dépôts :
@@ -17,7 +49,7 @@ git submodule update --init /path/to/submodule
 ```
 
 
-## Étapes pour ajouter un dépôt existant
+### Étapes pour ajouter un dépôt existant
 
 Deux options : 
 * Soit cloner le dépôt, ajouter le submodule, commit et push
@@ -31,7 +63,7 @@ git push -u origin main
 
 * Une méthode moins orthodoxe, mais qui fonctionne : créer une nouvelle issue demandant à la personne qui maintient le dépôt général d'ajouter (ou de mettre à jour) un dépôt particulier. Cett issue devra contenir le texte et le lien à ajouter dans le README du dépôt global.
 
-## Pour mettre à jour un module
+### Pour mettre à jour un module
 * Soit vous avez une copie locale du dépôt et vous travaillez à partir de celle-ci, soit vous créez une nouvelle issue
 
 ```
@@ -41,4 +73,13 @@ git merge
 cd ..
 git add * (si rien d'autres n'attend d'être committé)
 git commit -m "Update of existing/module"
-git push -u origin main```
+git push -u origin main
+```
+
+## Contribution
+
+## Licence
+
+## Contact
+
+## Remerciements
