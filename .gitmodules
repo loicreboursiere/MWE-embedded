@@ -1,0 +1,6 @@
+[submodule "MWE-pymakr_MESH"]
+	path = MWE-pymakr_MESH
+	url = git@github.com:loicreboursiere/MWE-pymakr_MESH.git
+[submodule "MWE-painlessMesh-ESP-Ruisantos"]
+	path = MWE-painlessMesh-ESP-Ruisantos
+	url = git@github.com:loicreboursiere/MWE-painlessMesh-ESP-Ruisantos.git
