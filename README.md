@@ -12,9 +12,9 @@ Ces MWE correspondent essentiellement au test de tutoriels trouver sur internet 
     <li><a href="#projets">Les projets</a></li>
     <li><a href="#utilisation">Utilisation du dépôt</a></li>
       <ul>
-        <li><a href="#clone">Cloner le dépôt principal MWE-embedded</a></li>
-        <li><a href="#add">Étapes pour ajouter un dépôt existant</a></li>
-        <li><a href="#update">Mettre à jour un module</a></li>
+        <li><a href="#clone">Cloner</a></li>
+        <li><a href="#add">Ajouter</a></li>
+        <li><a href="#update">Mettre à jour</a></li>
       </ul>
     <li><a href="#contribution">Contribution</a></li>
     <li><a href="#license">License</a></li>
@@ -35,7 +35,7 @@ Les projets repris dans ce dépôt sont les suivants :
 
 ## Utilisation du dépôt
 
-### Cloner le dépôt principal MWE-embedded
+### Cloner
 
 Deux options : 
 * Soit vous êtes intéressés par tous le dépôts :
@@ -50,7 +50,7 @@ git submodule update --init /path/to/submodule
 ```
 
 
-### Étapes pour ajouter un dépôt existant
+### Ajouter
 
 Deux options : 
 * Soit cloner le dépôt, ajouter le submodule, commit et push
@@ -64,7 +64,7 @@ git push -u origin main
 
 * Une méthode moins orthodoxe, mais qui fonctionne : créer une nouvelle issue demandant à la personne qui maintient le dépôt général d'ajouter (ou de mettre à jour) un dépôt particulier. Cett issue devra contenir le texte et le lien à ajouter dans le README du dépôt global.
 
-### Mettre à jour un module
+### Mettre à jour
 * Soit vous avez une copie locale du dépôt et vous travaillez à partir de celle-ci, soit vous créez une nouvelle issue
 
 ```
