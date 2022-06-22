@@ -10,11 +10,11 @@ Ces MWE correspondent essentiellement au test de tutoriels trouver sur internet 
   <summary><h2 style="display: inline-block">Table des matières</h2></summary>
   <ol>
     <li><a href="#projets">Les projets</a></li>
-    <li><a href="#utilisation">Utilisation du dépôt</a></li>
+    <li><a href="#utilisation-du-depot">Utilisation du dépôt</a></li>
       <ul>
-        <li><a href="#clone">Cloner</a></li>
-        <li><a href="#add">Ajouter</a></li>
-        <li><a href="#update">Mettre à jour</a></li>
+        <li><a href="#cloner">Cloner</a></li>
+        <li><a href="#ajouter">Ajouter</a></li>
+        <li><a href="#mettre-a-jour">Mettre à jour</a></li>
       </ul>
     <li><a href="#contribution">Contribution</a></li>
     <li><a href="#license">License</a></li>
