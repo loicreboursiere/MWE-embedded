@@ -14,7 +14,7 @@ Ces MWE correspondent essentiellement au test de tutoriels trouver sur internet 
       <ul>
         <li><a href="#clone">Cloner le dépôt principal MWE-embedded</a></li>
         <li><a href="#add">Étapes pour ajouter un dépôt existant</a></li>
-        <li><a href="#update">Pour mettre à jour un module</a></li>
+        <li><a href="#update">Mettre à jour un module</a></li>
       </ul>
     <li><a href="#contribution">Contribution</a></li>
     <li><a href="#license">License</a></li>
@@ -64,7 +64,7 @@ git push -u origin main
 
 * Une méthode moins orthodoxe, mais qui fonctionne : créer une nouvelle issue demandant à la personne qui maintient le dépôt général d'ajouter (ou de mettre à jour) un dépôt particulier. Cett issue devra contenir le texte et le lien à ajouter dans le README du dépôt global.
 
-### Pour mettre à jour un module
+### Mettre à jour un module
 * Soit vous avez une copie locale du dépôt et vous travaillez à partir de celle-ci, soit vous créez une nouvelle issue
 
 ```
@@ -79,7 +79,7 @@ git push -u origin main
 
 ## Contribution
 
-## Licence
+## License
 
 ## Contact
 
