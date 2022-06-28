@@ -7,3 +7,6 @@
 [submodule "MWE-ESP8266-APMod"]
 	path = MWE-ESP8266-APMod
 	url = https://github.com/loicreboursiere/MWE-ESP8266-APMod.git
+[submodule "MWE-Adafruit_Feather_Huzzah_ESP32"]
+	path = MWE-Adafruit_Feather_Huzzah_ESP32
+	url = https://github.com/loicreboursiere/MWE-Adafruit_Feather_Huzzah_ESP32.git
