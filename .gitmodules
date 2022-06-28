@@ -10,3 +10,6 @@
 [submodule "MWE-Adafruit_Feather_Huzzah_ESP32"]
 	path = MWE-Adafruit_Feather_Huzzah_ESP32
 	url = https://github.com/loicreboursiere/MWE-Adafruit_Feather_Huzzah_ESP32.git
+[submodule "MWE-XIAO_BLE"]
+	path = MWE-XIAO_BLE
+	url = https://github.com/loicreboursiere/MWE-XIAO_BLE
